@@ -8,4 +8,4 @@ libmagic==1.0
 python-magic==0.4.27
 OpenAI == 0.28.0
 langchain_google_genai
-pip install langchain-community
+langchain-community
